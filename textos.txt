@@ -103,3 +103,7 @@ Blog
 Destaques
 Institucional
 Contato
+
+/* ESTILIZAÇÃO PARA DISPOSITIVOS TABLETS */
+@media screen and (min-width: 768px){
+}

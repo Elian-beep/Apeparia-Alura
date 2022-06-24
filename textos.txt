@@ -107,3 +107,7 @@ Contato
 /* ESTILIZAÇÃO PARA DISPOSITIVOS TABLETS */
 @media screen and (min-width: 768px){
 }
+
+/* ESTILIZAÇÃO PARA DISPOSITIVOS DESKTOPS */
+@media screen and (min-width: 1024px){
+}
